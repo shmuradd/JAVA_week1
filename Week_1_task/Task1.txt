@@ -1,0 +1,24 @@
+Task 1. 
+bir string verilib hemin stringi eksine cevirin Salam - malas
+
+Task 2. 
+adlardan ibaret string arrayi verilib hemin arrayde herflerinin sayi en cox olan adi tapin
+
+Task 3. 
+x ve y ededleri verilib hemin ededlerin
+2e bolunenlerinin cemini tapin 
+
+Task 4.
+a ve b ededleri verilib 
+a-nin b quvvetini tapin
+
+
+Task 5.
+2nin quvveti olan bir tam eded verilib 
+bu ededinin 2nin necenci quvvetini oldugunu tapin  
+
+
+Task 6. ededlerden ibaret array verilib
+hemin arrayin ededlerinin ededi ortasini tapin  
+
+
